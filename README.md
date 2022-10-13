@@ -54,3 +54,4 @@ refresher on these.
 - [Active Record Associations: Join Table section][has-many-through]
 
 [has-many-through]: http://guides.rubyonrails.org/association_basics.html#the-has-many-through-association
+
